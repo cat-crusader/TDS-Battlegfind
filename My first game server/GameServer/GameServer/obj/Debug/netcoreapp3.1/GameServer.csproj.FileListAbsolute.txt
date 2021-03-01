@@ -1,0 +1,13 @@
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+D:\[Programing]\[Programing Web]\C# web\My first game server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
